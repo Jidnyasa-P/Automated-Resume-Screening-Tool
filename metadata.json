@@ -1,0 +1,6 @@
+{
+  "name": "Automated Resume Screening Tool",
+  "description": "An AI-powered ATS (Applicant Tracking System) that ranks resumes against job descriptions using Gemini NLP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
